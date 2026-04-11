@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Samir Yogendra Meshram logo</title>
+  <desc id="desc">Gradient square logo with initials SM for sameermeshram.in</desc>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5fd8ff"/>
+      <stop offset="55%" stop-color="#8974ff"/>
+      <stop offset="100%" stop-color="#36edc4"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1224"/>
+      <stop offset="100%" stop-color="#131f3d"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#bg)"/>
+  <rect x="10" y="10" width="236" height="236" rx="46" fill="none" stroke="url(#grad)" stroke-width="8"/>
+  <circle cx="72" cy="70" r="18" fill="#5fd8ff" opacity="0.16"/>
+  <circle cx="192" cy="190" r="24" fill="#36edc4" opacity="0.10"/>
+  <text x="128" y="154" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="100" font-weight="700" fill="url(#grad)">SM</text>
+  <text x="128" y="214" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="600" fill="#eef4ff">sameermeshram.in</text>
+</svg>
